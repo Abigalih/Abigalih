@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiyyu Galih Ghifari</h1>
 <h3 align="center">A Frontend Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abigalih&label=Profile%20views&color=0e75b6&style=flat" alt="abigalih" /> </p>
-
 - 🔭 I’m currently working on **Game Booster**
 
 - 🌱 I’m currently learning **Laravel**
