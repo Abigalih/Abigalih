@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at https://web-portofolio-rho.vercel.app/
+- 👨‍💻 All of my projects are available at https://abigalih.vercel.app/
 
 - 📫 How to reach me **galikgivari@gmail.com**
 
